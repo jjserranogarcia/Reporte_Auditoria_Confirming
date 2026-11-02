@@ -1,4 +1,4 @@
-# Reporte de bonificaciones de confirming | Power BI
+# Reporte de bonificaciones de confirming en Power BI
 
 **Dashboard interactivo para analizar los importes de facturas anticipadas por proveedores y las bonificaciones que generan para Grupo Prisma**, un holding empresarial ficticio compuesto por ocho sociedades.
 
