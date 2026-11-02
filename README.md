@@ -8,7 +8,7 @@
 
 En el *confirming*, los proveedores pueden **anticipar el cobro de sus facturas** a través de una entidad financiera. Esta cobra por adelantar dichos **importes** y entrega una parte de los ingresos al holding en concepto de **bonificación**.
 
-Este informe utiliza el histórico CSV generado por [**Pipeline_Auditoria_Confirming**](https://github.com/jjserranogarcia/Pipeline_Auditoria_Confirming), un proyecto en **Python** que automatiza la extracción, comprobación y seguimiento de las operaciones mediante **Google Drive** y **GitHub Actions**. El pipeline revisa los datos; **Power BI permite analizarlos visualmente**.
+Este informe utiliza el histórico CSV generado por [**Pipeline_Auditoria_Confirming**](https://github.com/jjserranogarcia/Pipeline_Auditoria_Confirming), un proyecto en **Python** que automatiza la extracción, comprobación y seguimiento de las operaciones mediante **Google Drive** y **GitHub Actions**. El pipeline revisa los datos y **Power BI permite analizarlos visualmente**.
 
 ## 2. 📊 Funcionamiento y resumen
 
