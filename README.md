@@ -12,7 +12,7 @@ Este informe utiliza el histórico CSV generado por [**Pipeline_Auditoria_Confir
 
 ## 2. 📊 Funcionamiento y resumen
 
-El informe dispone de cuatro páginas —**Resumen, Sociedad, Banco y Proveedor**— y permite alternar entre **Importes** y **Bonificaciones**, aplicar filtros y consultar tanto resultados agregados como facturas individuales.
+El informe dispone de cuatro páginas — **Resumen, Sociedad, Banco y Proveedor** — y permite alternar entre **Importes** y **Bonificaciones**, aplicar filtros y consultar tanto resultados agregados como facturas individuales.
 
 ### Importes anticipados
 
