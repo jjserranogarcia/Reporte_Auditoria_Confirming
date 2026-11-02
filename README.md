@@ -21,8 +21,8 @@ El informe dispone de cuatro páginas : **Resumen, Sociedad, Banco y Proveedor**
 **Análisis de los datos**
 
 - **Volumen:** 19.733 facturas anticipadas por **42.827.760 €**, con un importe medio de **2.170 €**.
-- **Bancos:** los mayores importes corresponden a **Rubí** (8.636.504 €), **Perla** (8.587.743 €) y **Oro** (8.359.590 €).
-- **Región:** **Andalucía** destaca con la mayor intensidad en el mapa, por lo que se selecciona para profundizar en las siguientes páginas.
+- **Bancos:** los bancos que gestionan mayores importes adelantados son **Rubí** (8.636.504 €), **Perla** (8.587.743 €) y **Oro** (8.359.590 €).
+- **Región:** la región donde más importe se adelanta es **Andalucía**, por lo que en las siguientes páginas la filtraremos para un análisis detallado.
 
 ### Bonificaciones
 
@@ -32,9 +32,9 @@ El informe dispone de cuatro páginas : **Resumen, Sociedad, Banco y Proveedor**
 
 - **Volumen:** las 19.733 facturas generan **1.545.048 €** en bonificaciones, con una media de **78 €** por factura.
 - **Bancos:** lidera **Platino** (849.877 €), seguido de **Oro** (220.800 €) y **Perla** (219.231 €).
-- **Comparación:** **Rubí** lidera los importes anticipados, pero **Platino** las bonificaciones; ambas magnitudes deben analizarse por separado.
+- **Comparación:** mientras que **Rubí** tiene el mayor número de importes anticipados, el banco **Platino** lidera en las bonificaciones.
 
-El botón de información explica los conceptos del informe y ayuda a interpretar los indicadores:
+El botón de información explica los conceptos del informe y ayuda a interpretar la diferencia entre ambos indicadores:
 
 ![Ventana de ayuda sobre el informe](imagenes/2_Explicacion.png)
 
@@ -46,25 +46,29 @@ Esta página compara el volumen anticipado y el número de facturas por sociedad
 
 **Análisis de los datos**
 
-- **Selección:** Andalucía, del **01/12/2025 al 28/12/2025**, con **9.829.405 €** anticipados.
-- **Importes:** **Escarlata** concentra el mayor volumen (**1.349.580 €**), seguida muy de cerca por **Rojo** (**1.349.419 €**).
-- **Facturas:** **Púrpura** registra el mayor número (**623**), aunque no lidera el importe; las tablas permiten revisar el detalle.
+- **Selección:** en Andalucía, durante el mes de diciembre de 2025, se adelantaron importes de facturas por un valor total de **9.829.405 €**.
+- **Importes:** la sociedad **Escarlata** concentra el mayor volumen de importe anticipado (**1.349.580 €**), seguida muy de cerca por **Rojo** (**1.349.419 €**).
+- **Facturas:** la sociedad **Púrpura** registra el mayor número de facturas anticipadas (**623**), aunque no lidera el importe.
+
+Las tablas permiten revisar el detalle de cada factura, así como información adicional sobre cada sociedad del Grupo Prisma.
 
 ## 4. 🏦 Banco
 
-Esta página permite comparar las bonificaciones obtenidas por banco, el número de operaciones y su evolución durante el periodo seleccionado.
+Esta página compara las bonificaciones generadas y el número de facturas anticipadas por banco, su evolución diaria y el detalle de las operaciones.
 
 ![Análisis de bonificaciones por banco](imagenes/4_Banco.png)
 
 **Análisis de los datos**
 
-- **Selección:** Andalucía, del **01/12/2025 al 28/12/2025**, con **228.346 €** en bonificaciones.
-- **Bonificaciones:** destaca **Platino** (**65.977 €**), seguido de **Oro** (**51.792 €**) y **Perla** (**48.133 €**).
-- **Facturas:** **Rubí** registra **1.019** operaciones, frente a las **121** de Platino: más facturas no implica necesariamente más bonificaciones.
+- **Selección:** en Andalucía, durante el mes de diciembre de 2025, las facturas anticipadas generaron un total de **228.346 €** en bonificaciones.
+- **Bonificaciones:** el banco **Platino** concentra el mayor importe (**65.977 €**), seguido de **Oro** (**51.792 €**) y **Perla** (**48.133 €**).
+- **Facturas:** el banco **Rubí** registra el mayor número de facturas anticipadas (**1.019**), mientras que **Platino** contabiliza **121**, pese a liderar las bonificaciones.
+
+Las tablas permiten consultar el detalle de cada factura adelantada, así como información adicional sobre los bancos.
 
 ## 5. 📦 Proveedor
 
-Esta página identifica los proveedores con mayores importes anticipados y permite pasar de una clasificación general al detalle de un proveedor concreto.
+Esta página compara los importes anticipados por proveedor, su evolución diaria y el detalle de las operaciones. Además, permite seleccionar un proveedor para estudiarlo en profundidad.
 
 ### Clasificación de proveedores
 
@@ -72,19 +76,24 @@ Esta página identifica los proveedores con mayores importes anticipados y permi
 
 **Análisis de los datos**
 
-- **Selección:** Andalucía, del **01/12/2025 al 28/12/2025**, con **9.829.405 €** anticipados.
-- **Proveedores:** lidera **Piedras Modernizados S.A.** (**86.163 €**), seguido de **Condensadores Virtuales S.A.** (**79.377 €**) y **Adoquines Ágiles S.A.** (**78.406 €**).
-- **Siguiente análisis:** se selecciona el proveedor con mayor importe anticipado para estudiar sus operaciones individualmente.
+- **Selección:** en Andalucía, durante el mes de diciembre de 2025, se adelantaron importes de facturas por un valor total de **9.829.405 €**.
+- **Importes:** **Piedras Modernizados S.A.** es el proveedor con mayor importe anticipado (**86.163 €**), seguido de **Condensadores Virtuales S.A.** (**79.377 €**) y **Adoquines Ágiles S.A.** (**78.406 €**).
+- **Análisis:** se elige **Piedras Modernizados S.A.**, por ser el proveedor que más importe anticipa, para revisar sus operaciones individualmente.
+
+Las tablas permiten consultar el detalle de cada factura adelantada, así como información adicional sobre los proveedores.
 
 ### Análisis de un proveedor concreto
 
-![Análisis filtrado de Piedras Modernizados S.A.](imagenes/5_2_Proveedor.png)
+![Análisis de Piedras Modernizados S.A.](imagenes/5_2_Proveedor.png)
 
 **Análisis de los datos**
 
-- **Filtro:** se selecciona **Piedras Modernizados S.A.**, manteniendo Andalucía y el mismo periodo.
-- **Importes:** el proveedor acumula **86.163 €** anticipados; el gráfico muestra cómo se distribuyen a lo largo del mes.
-- **Detalle:** la tabla permite identificar las **sociedades, bancos y facturas** asociados a sus anticipos.
+- **Selección:** se mantienen los filtros de Andalucía y diciembre de 2025, y se selecciona el proveedor **Piedras Modernizados S.A.**.
+- **Importes:** este proveedor acumula **86.163 €** en facturas anticipadas durante el periodo analizado.
+- **Evolución y detalle:** el gráfico muestra cómo se distribuyen los anticipos a lo largo del tiempo y la tabla identifica las facturas, sociedades y bancos relacionados.
+
+Esta vista permite pasar de la clasificación general de proveedores al análisis detallado de sus operaciones.
+
 
 ## 6. 💻 Tecnologías y acceso
 
