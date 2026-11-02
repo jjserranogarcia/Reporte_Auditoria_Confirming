@@ -98,7 +98,7 @@ Esta vista permite pasar de la clasificación general de proveedores al análisi
 ## 6. 💻 Tecnologías y acceso
 
 **Power BI Desktop** para el dashboard y **CSV** como fuente de datos revisados. 
-Para explorar el informe, descarga [`Report_Auditoria_Confirming.pbix`](Report_Auditoria_Confirming.pbix) y ábrelo en **Power BI Desktop**.
+Para explorar el informe, descarga [`Reporte_Auditoria_Confirming.pbix`](Reporte_Auditoria_Confirming.pbix) y ábrelo en **Power BI Desktop**.
 
 El tratamiento automatizado previo se documenta en [Pipeline_Auditoria_Confirming](https://github.com/jjserranogarcia/Pipeline_Auditoria_Confirming/blob/main/README.md).
 
