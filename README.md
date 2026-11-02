@@ -8,7 +8,7 @@
 
 En el *confirming*, los proveedores pueden **anticipar el cobro de sus facturas** a través de una entidad financiera. Esta cobra por adelantar dichos **importes** y entrega una parte de los ingresos al holding en concepto de **bonificación**.
 
-Este informe utiliza el histórico CSV generado por [**Pipeline_Auditoria_Confirming**](https://github.com/jjserranogarcia/Pipeline_Auditoria_Confirming), un proyecto en **Python** que automatiza la extracción, comprobación y seguimiento de las operaciones mediante **Google Drive** y **GitHub Actions**. El pipeline revisa los datos y **Power BI permite analizarlos visualmente**.
+Este informe utiliza el histórico CSV generado por [**Pipeline_Auditoria_Confirming**](https://github.com/jjserranogarcia/Pipeline_Auditoria_Confirming/blob/main/README.md), un proyecto en **Python** que automatiza la extracción, comprobación y seguimiento de las operaciones mediante **Google Drive** y **GitHub Actions**. El pipeline revisa los datos y **Power BI permite analizarlos visualmente**.
 
 ## 2. 📊 Funcionamiento y resumen
 
@@ -97,6 +97,8 @@ Esta vista permite pasar de la clasificación general de proveedores al análisi
 
 ## 6. 💻 Tecnologías y acceso
 
-**Power BI Desktop** para el dashboard y **CSV** como fuente de datos revisados. El tratamiento automatizado previo se documenta en [Pipeline_Auditoria_Confirming](https://github.com/jjserranogarcia/Pipeline_Auditoria_Confirming).
+**Power BI Desktop** para el dashboard y **CSV** como fuente de datos revisados. 
+Para explorar el informe, descarga [`Report_Auditoria_Confirming.pbix`](Report_Auditoria_Confirming.pbix) y ábrelo en **Power BI Desktop**.
 
-Para explorar el informe, descarga [`Report_Auditoria_Confirming.pbix`](Report_Auditoria_Confirming.pbix) y ábrelo en **Power BI Desktop**. Si necesitas actualizar los datos desde otro equipo, revisa la ruta del archivo de origen.
+El tratamiento automatizado previo se documenta en [Pipeline_Auditoria_Confirming](https://github.com/jjserranogarcia/Pipeline_Auditoria_Confirming/blob/main/README.md).
+
