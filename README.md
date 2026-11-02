@@ -34,7 +34,7 @@ El informe dispone de cuatro páginas : **Resumen, Sociedad, Banco y Proveedor**
 - **Bancos:** lidera **Platino** (849.877 €), seguido de **Oro** (220.800 €) y **Perla** (219.231 €).
 - **Comparación:** mientras que **Rubí** tiene el mayor número de importes anticipados, el banco **Platino** lidera en las bonificaciones.
 
-El botón de información explica los conceptos del informe y ayuda a interpretar la diferencia entre ambos indicadores:
+El botón de información ofrece una breve descripción del informe y explica la diferencia entre los indicadores **"Importes"** y **"Bonificaciones"**, facilitando la interpretación de los datos.
 
 ![Ventana de ayuda sobre el informe](imagenes/2_Explicacion.png)
 
