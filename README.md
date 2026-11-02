@@ -55,7 +55,7 @@ Las tablas permiten revisar el detalle de cada factura, así como información a
 ## 4. 🏦 Banco
 
 Esta página compara las bonificaciones generadas y el número de facturas anticipadas por banco, su evolución diaria y el detalle de las operaciones.
-#
+
 ![Análisis de bonificaciones por banco](imagenes/4_Banco.png)
 
 **Análisis de los datos**
